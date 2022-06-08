@@ -13,4 +13,4 @@ patches:
     patch: |-
       - op: replace
         path: /spec/channel
-        value: 'latest'
+        value: 'release-0.1'
